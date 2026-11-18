@@ -47,7 +47,6 @@ installer help
 installer install --help
 installer remove --help
 installer update --help
-installer create --help
 ```
 
 For complete CLI usage and sourceable API docs, see [API.md](docs/API.md).

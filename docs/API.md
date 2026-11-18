@@ -17,7 +17,6 @@ installer help
 installer install --help
 installer remove --help
 installer update --help
-installer create --help
 ```
 
 ### `installer install`
