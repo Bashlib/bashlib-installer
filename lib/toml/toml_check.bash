@@ -9,7 +9,7 @@
 # if this file has been sourced we simply return out of
 # the script.
 if [[ -v _toml_check_sourced ]]; then return 0; fi
-_toml_checked_sourced=1
+_toml_check_sourced=1
 ## ---------------------------------------------------------------------------------------
 
 
